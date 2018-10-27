@@ -23,7 +23,7 @@
         <div id="header">
           <a href="" class="btn" style="font-size: 35px; padding:0px; margin:0px; border:none; "><i class="fab fa-autoprefixer"></i></a>
           <a href="index.html" class="btn">About Me</a>
-          <a href="portfolio.html" class="btn">Portfoilio</a>
+          <a href="portfolio.php" class="btn">Portfoilio</a>
         </div>
 
       </header>
