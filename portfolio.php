@@ -23,7 +23,7 @@
         <div id="header">
           <a href="" class="btn" style="font-size: 35px; padding:0px; margin:0px; border:none; "><i class="fab fa-autoprefixer"></i></a>
           <a href="index.php" class="btn">About Me</a>
-          <a href="portfolio.html" class="btn">Portfoilio</a>
+          <a href="portfolio.php" class="btn">Portfoilio</a>
         </div>
       </header>
 
@@ -50,7 +50,7 @@
         
         <h2><i class="fas fa-code-branch"></i> Projects That I've Worked On!</h2>
         <hr style="border-style: dashed; margin:0px;">
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href=""> link 1</a></p>
+        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="https://guarded-wildwood-86580.herokuapp.com/"> Horoscopeji.com</a></p>
         <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href=""> link 2</a></p>
         <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href=""> link 3</a></p>
 

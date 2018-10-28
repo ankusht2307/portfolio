@@ -22,7 +22,7 @@
 
         <div id="header">
           <a href="" class="btn" style="font-size: 35px; padding:0px; margin:0px; border:none; "><i class="fab fa-autoprefixer"></i></a>
-          <a href="index.html" class="btn">About Me</a>
+          <a href="index.php" class="btn">About Me</a>
           <a href="portfolio.php" class="btn">Portfoilio</a>
         </div>
 
@@ -34,7 +34,7 @@
           <hr style="border-style: dashed; margin:0px;">
           <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>Hello there Guys!</p>
           <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>School friends call me "Ankush", college friends call me "Thakur", i was born and brought up in Dehradun, Uttarakhand. I am an introvert person who likes minding his own business. Now a days i am into coding, trying and building stuff.  </p>
-          <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>You can whish me on 23 july <i class="fas fa-smile" style="font-size: 20px;"></i> .</p>
+          <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>You can wish me on 23 july <i class="fas fa-smile" style="font-size: 20px;"></i> .</p>
           <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>Karma Believer <i class=" fas fa-dharmachakra" style="font-size: 20px;"></i> .</p>
           <p><i class="fab fa-periscope" style="padding-right: 10px; "></i>Nature Lover <i id="tree" class="fas fa-tree" style="font-size: 20px;"></i> .</p>
       
