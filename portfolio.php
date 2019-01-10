@@ -21,38 +21,40 @@
       <header>
 
         <div id="header">
-          <a href="" class="btn" style="font-size: 35px; padding:0px; margin:0px; border:none; "><i class="fab fa-autoprefixer"></i></a>
-          <a href="index.php" class="btn">About Me</a>
-          <a href="portfolio.php" class="btn">Portfoilio</a>
+          <a href="#" class="btn" style="font-size: 35px; padding:0px; margin:0px; border:none; "><i class="fab fa-autoprefixer"></i></a>
+          <a href="index.php" class="active btn">Portfoilio</a>
+          <a href="portfolio.php" class="btn">About Me</a>
         </div>
+
       </header>
 
       <main id="main">
-        
-          <h2 style="text-align:left"><i class=" glyphicon glyphicon-flash"></i>SkillSet:</h2>
+
+          <h2><i class=" glyphicon glyphicon-flash"></i>About Me</h2>
           <hr style="border-style: dashed; margin:0px;">
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  HTML</p>
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  CSS</p>
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  Javascript</p>
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  Bootstrap</p>
+          <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>Hello there Guys!</p>
+          <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>School friends call me "Ankush", college friends call me "Thakur", i was born and brought up in Dehradun, Uttarakhand. I am an introvert person who likes minding his own business. Now a days i am into coding, trying and building stuff.  </p>
+          <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>You can wish me on 23 july <i class="fas fa-smile" style="font-size: 20px;"></i> .</p>
+          <p><i class="fab fa-periscope" style="padding-right: 10px;"></i>Karma Believer <i class=" fas fa-dharmachakra" style="font-size: 20px;"></i> .</p>
+          <p><i class="fab fa-periscope" style="padding-right: 10px; "></i>Nature Lover <i id="tree" class="fas fa-tree" style="font-size: 20px;"></i> .</p>
       
       </main>
 
       <nav class="navigation">
         
-        <h3><i class="far fa-address-book"></i> Name: Ankush Thakur</h3>
-        <h3><i class="far fa-address-book"></i> Contact:  7088674267</h3>
-        <h3><i class="far fa-address-book"></i> Email:  ankusht2307@gmail.com</h3>
+        <h4><i class="far fa-address-book"></i> Name: Ankush Thakur</h4>
+        <h4><i class="far fa-address-book"></i> Contact:  7088674267</h4>
+        <h4><i class="far fa-address-book"></i> Email:  ankusht2307@gmail.com</h4>
 
       </nav>
 
       <section id="section">
         
-        <h2><i class="fas fa-code-branch"></i> Projects That I've Worked On!</h2>
+        <h2><i class=" glyphicon glyphicon-flash"></i>My Hobbies</h2>
         <hr style="border-style: dashed; margin:0px;">
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="https://guarded-wildwood-86580.herokuapp.com/"> Horoscopeji.com</a></p>
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href=""> link 2</a></p>
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href=""> link 3</a></p>
+        <p><i class="fab fa-angellist" style="font-size: 20px;"></i> Travelling, Trekking!!!</p>
+        <p><i class="fab fa-angellist" style="font-size: 20px;"></i> Riding Bike/Motorcycle, Spending Time With Friends!!!</p>
+        <p><i class="fab fa-angellist" style="font-size: 20px;"></i> Reading Novels, Watching Movies & Serials, Writing Code, Playing Video Games!!!</p>
 
       </section>
 
