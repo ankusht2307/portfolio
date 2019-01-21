@@ -51,7 +51,7 @@
         <h2><i class="fas fa-code-branch"></i> Projects That I've Worked On!</h2>
         <hr style="border-style: dashed; margin:0px;">
         <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="http://www.horoscopeji.com/"> Horoscopeji.com</a></p>
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="https://limitless-brook-27383.herokuapp.com/"> MyQuiz</a></p>
+        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="https://quizmonk.herokuapp.com/">QuizMonk</a></p>
 
       </section>
 
