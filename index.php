@@ -31,18 +31,18 @@
         
           <h2 style="text-align:left"><i class=" glyphicon glyphicon-flash"></i>SkillSet:</h2>
           <hr style="border-style: dashed; margin:0px;">
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  HTML</p>
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  CSS</p>
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  Javascript</p>
-          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  Bootstrap</p>
+          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  skill 1</p>
+          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  skill 2</p>
+          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  skill 3</p>
+          <p><i class=" glyphicon glyphicon-check " style="padding-right: 10px;"></i>  skill 4</p>
       
       </main>
 
       <nav class="navigation">
         
-        <h4><i class="far fa-address-book"></i> Name: Ankush Thakur</h4>
-        <h4><i class="far fa-address-book"></i> Contact:  7088674267</h4>
-        <h4><i class="far fa-address-book"></i> Email:  ankusht2307@gmail.com</h4>
+        <h4><i class="far fa-address-book"></i> Name: Enter Name Here!</h4>
+        <h4><i class="far fa-address-book"></i> Contact:  Enter Contact Here!</h4>
+        <h4><i class="far fa-address-book"></i> Email:  yourusername@something.com</h4>
 
       </nav>
 
@@ -50,8 +50,8 @@
         
         <h2><i class="fas fa-code-branch"></i> Projects That I've Worked On!</h2>
         <hr style="border-style: dashed; margin:0px;">
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="http://www.horoscopeji.com/"> Horoscopeji.com</a></p>
-        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="https://quizmonk.herokuapp.com/">QuizMonk</a></p>
+        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="#enterlink to project here/"> project 1</a></p>
+        <p><i class="far fa-arrow-alt-circle-right" style="padding-right: 10px;"></i><a href="#enterlink to project here/">project 2</a></p>
 
       </section>
 
